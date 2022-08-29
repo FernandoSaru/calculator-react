@@ -3,6 +3,10 @@
 
 Calcutator with all base functions and validations using React, Javascript, HTML and CSS.
 
+<p align="center" >
+  <img src="src/calculator.gif">
+</p>
+
 ## Main Features
 
  - Add, subtract, multiply, divide
